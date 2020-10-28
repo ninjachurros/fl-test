@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to the Fusion Lab
 
-You can use the [editor on GitHub](https://github.com/ninjachurros/fl-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Fusion Lab online! Here, there a lots of resources and projects for you to check out. All resources are based on the resources and equipment we have in the lab. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These online resources will allow to start or continue projects you may find interesting from the lab. We have everything from Rocketry to 3D-Printing! 
 
-### Markdown
+If you have any questions or would like to learn more, please stop by our [Discord]. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Pages
 
-- Bulleted
-- List
+Interested in one of the projects/activites the lab has? Visit the pages listed below to access resources and project ideas.
 
-1. Numbered
-2. List
+- [Rocketry](pages/rocketry.md)
+- [Astronomy](pages/astronomy.md)
+- [3D Printing](pages/print.md)
+- [Pi](pages/pi.md)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ninjachurros/fl-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
