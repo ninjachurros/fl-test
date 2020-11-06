@@ -4,3 +4,5 @@ Welcome to the Pi page! Below you will find links to resources and software that
 ## Resources
 
 ## Software
+
+## [Home](index.md)
