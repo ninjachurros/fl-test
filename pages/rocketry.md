@@ -16,4 +16,4 @@ A free application that shows you what you will see in the sky. There is desktop
 Another free Model Rocket simulator that gives more analysis and flight simulation models for high-powered rockets. 
 
 
-## [Home](index.md)
+## [Home](https://ninjachurros.github.io/fl-test/)
