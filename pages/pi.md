@@ -8,6 +8,14 @@ Looking for projects to do with a Raspberry Pi? This website provides projects s
 #### [The MagPi](https://magpi.raspberrypi.org/)
 The offical Raspberry Pi Magazine website that provides articles, tutorials, reviews, and books for all things Raspberry Pi. 
 
+#### [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
+The official Documentation for the Raspberrry Pi with detailed instructions for getting started and usage. Having particular issues or wondering what all the Raspberry Pi can do? This is the place for topics like configuation, hardware, and even Linux. 
+
+#### [OpenSource](https://opensource.com/tags/raspberry-pi)
+Looking for more Raspberry Pi Projects? Opensource.com allows the sharing of open sourced projects that users create and explain. These projects typically go beyond the introductory projects when first starting out. 
+
 ## Software
+#### [Raspberry Pi OS](https://www.raspberrypi.org/documentation/raspbian/)
+Raspberry Pi OS is the recommend operating system for normal usage based on Debian. The software comes with over 35,000 packages and has instructions on how to install. 
 
 ## [Home](https://ninjachurros.github.io/fl-test/)
