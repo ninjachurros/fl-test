@@ -17,7 +17,7 @@ An Organization that focuses soley on high power rocketry. If you are more focus
 
 ## Software
 #### [Open Rocket](http://openrocket.info/)
-A free application that shows you what you will see in the sky. There is desktop and web-based verison of the software.
+A free simulation software that allows you to design and "fly" model rockets. 
 
 #### [RasAero](http://www.rasaero.com/)
 Another free Model Rocket simulator that gives more analysis and flight simulation models for high-powered rockets.
