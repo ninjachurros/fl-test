@@ -1,6 +1,6 @@
 ## Welcome to the Fusion Lab
 
-Welcome to the Fusion Lab online! Here, there a lots of resources and projects for you to check out. All resources are based on the resources and equipment we have in the lab. [Page](pages/matplotlib.md)
+Welcome to the Fusion Lab online! Here, there a lots of resources and projects for you to check out. All resources are based on the resources and equipment we have in the lab.
 
 These online resources will allow to start or continue projects you may find interesting from the lab. We have everything from Rocketry to 3D-Printing! 
 
