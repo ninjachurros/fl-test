@@ -1,8 +1,6 @@
 # Pi
 Welcome to the Pi page! Below you will find links to resources and software that you may find useful.
 
-Interested in learning about Matplotlib and some of the features? Check out this [series](matplotlib.md) of simple tutorials. [Page](pages/matplotlib.md)
-
 
 ## Resources
 #### [Raspberry Pi Projects](https://projects.raspberrypi.org/en)
