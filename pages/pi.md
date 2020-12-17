@@ -1,7 +1,7 @@
 # Pi
 Welcome to the Pi page! Below you will find links to resources and software that you may find useful.
 
-Interested in learning about Matplotlib and some of the features? Check out this [series](https://ninjachurros.github.io/fl-test/pages/matplotlib.md) of simple tutorials. 
+Interested in learning about Matplotlib and some of the features? Check out this [series](/pages/matplotlib.md) of simple tutorials. 
 
 
 ## Resources
