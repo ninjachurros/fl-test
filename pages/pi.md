@@ -1,5 +1,5 @@
 # Pi
-Welcome to the Pi page! Below you will find links to resources and software that you may find useful.
+Welcome to the Pi page! Below you will find links to resources and software that you may find useful. [page](plot.md)
 
 
 ## Resources
