@@ -8,6 +8,12 @@ Online dicussion communnity for all rocketry related questions. Also includes di
 #### [Beginners Guide to Rockets](https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html)
 Learn at your own pace about the basics of rockets and propulsion through an interactive websited hosted by NASA. In depth explanations of the mathematics and aerodynamics behind rockets, big and small.
 
+#### [Handbook of Model Rocketry, 7th Edition](https://www.wiley.com/en-us/Handbook+of+Model+Rocketry,+7th+Edition-p-9780471472421)
+Covers the basic of the entire spectrum of Model Rocketry from Sport to Competition style. 
+
+#### [Rocket Propulsion Elements, 9th Edition](https://www.wiley.com/en-us/Rocket+Propulsion+Elements%2C+9th+Edition-p-9781118753651)
+This book includes the basics of propulsion, latest advances, and principles of the different systems commonly used.
+
 ## Associations
 #### [National Association of Rocketry (NAR)](https://www.nar.org/)
 The largest and oldest rocketry organization that focuses on the safety and outreach of low, mid, and high power rockets. There are events held locally and nationally focusing on sport and competition rocketry with sections throught the US.
