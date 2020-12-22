@@ -4,7 +4,7 @@ Welcome to the Fusion Lab online! Here, there a lots of resources and projects f
 
 These online resources will allow to start or continue projects you may find interesting from the lab. We have everything from Rocketry to 3D-Printing! 
 
-If you have any questions or would like to learn more, please stop by our [Discord]. 
+If you have any questions or would like to learn more, please stop by the lab!
 
 
 
