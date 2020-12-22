@@ -5,7 +5,7 @@ The library allows you to use sets of data and create visualizations for them.
 
 Below is a series of quick start guides for some of the features of Matplotlib:
 - [Simple Plot](https://drive.google.com/file/d/1E3YngXbJ0o0ZGRcwVBfcmVvg_HTJ99x4/view?usp=sharing)
-- Temperature Sensing Plot (With Raspberry Pi) 
+- [Temperature Log (With Raspberry Pi)](https://drive.google.com/file/d/1IWDvcCPh3j54oYAt56F-A_Qgp02HeQ3t/view?usp=sharing) 
 - Bar Graph
 
 
