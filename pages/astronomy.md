@@ -11,6 +11,12 @@ A Citizen Science portal allowing you to partipate in research activities relati
 #### [The Planetary Society](https://www.planetary.org/)
 One of the largest space-interest groups that is dedicated to educating the public on space exploration. 
 
+#### [OpenStax: Astronomy](https://openstax.org/books/astronomy/pages/preface)
+Provides an introductory analysis of the basic principles and observations in astronomy. 
+
+#### [Astronomy Now](https://astronomynow.com/)
+A UK based news site that provides articles about current astronomy events and the history of astronomy. 
+
 ## Software
 #### [Stellarium](http://stellarium.org/)
 A free application that shows you what you will see in the sky. There is desktop and web-based verison of the software.
