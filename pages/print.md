@@ -14,6 +14,12 @@ A 3D printer manufacturer that provides resources on 3D printing and application
 #### [NASA 3D Resources](https://nasa3d.arc.nasa.gov/)
 NASA provides access to collections of 3D space related models 
 
+#### [The Free Beginners Guide](https://3dprintingindustry.com/3d-printing-basics-free-beginners-guide/)
+A free introductory guide that provides infomration on the basics of 3D printing and additive manufacturing. The guide also covers the different types of uses for different materials as well as the benefits to additive manufacturing. 
+
+#### [3D Printing Failures: 2020 Edition](https://www.amazon.com/3D-Printing-Failures-Diagnose-Desktop-ebook/dp/B081X8PYPQ)
+A book that focuses on some of the common troubleshooting types when using a 3D printer. 
+
 ## Software
 #### [Autodesk](https://www.autodesk.com/education/home)
 Autodesk offers a variety of resources and access to certain CAD products and services. Students and educators are able to take advtange of access to certain products free of charge.
