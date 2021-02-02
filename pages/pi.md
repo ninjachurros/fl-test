@@ -16,6 +16,7 @@ The official Documentation for the Raspberrry Pi with detailed instructions for 
 #### [OpenSource](https://opensource.com/tags/raspberry-pi)
 Looking for more Raspberry Pi Projects? Opensource.com allows the sharing of open sourced projects that users create and explain. These projects typically go beyond the introductory projects when first starting out. 
 
+## Books
 #### [Raspberry Pi For Dummies: 3rd Edition](https://www.amazon.com/Raspberry-Pi-Dummies-Sean-McManus/dp/1119412005)
 A simple introduction to the basic setup and interface of the Raspberry Pi. Also includes information on the basic of Linux and hardware projects that can be completed. 
 
