@@ -11,11 +11,17 @@ A Citizen Science portal allowing you to partipate in research activities relati
 #### [The Planetary Society](https://www.planetary.org/)
 One of the largest space-interest groups that is dedicated to educating the public on space exploration. 
 
+#### [Earth at Night](https://www.nasa.gov/connect/ebooks/earthatnight_detail.html)
+An ebook from NASA providing images and information on how earth looks from space during the night time. 
+
 #### [OpenStax: Astronomy](https://openstax.org/books/astronomy/pages/preface)
 Provides an introductory analysis of the basic principles and observations in astronomy. 
 
 #### [Astronomy Now](https://astronomynow.com/)
 A UK based news site that provides articles about current astronomy events and the history of astronomy. 
+
+#### [A Student's Guide to the Mathematics of Astronomy](https://www.amazon.com/Students-Guide-Mathematics-Astronomy-Guides/dp/1107610214)
+An introductory guide that covers the basics of astronomy. An accompanying [website](http://www.danfleisch.com/sgmoa/) also provides access to problems and further exploration of topics. 
 
 ## Software
 #### [Stellarium](http://stellarium.org/)
