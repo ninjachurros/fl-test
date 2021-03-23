@@ -19,6 +19,9 @@ This book includes the basics of propulsion, latest advances, and principles of 
 #### [National Association of Rocketry (NAR)](https://www.nar.org/)
 The largest and oldest rocketry organization that focuses on the safety and outreach of low, mid, and high power rockets. There are events held locally and nationally focusing on sport and competition rocketry with sections throught the US.
 
+#### [Maryland Delware Rocketry Association (MDRA)](https://mdrocketry.org/)
+An organization that meets monthly to launch rockets, big and small, in Eastern Shore Maryland. The maximum allowed altitude for rockets is 16,900 ft at the location.  
+
 #### [Tripoli Rocketry Association(TRA)](http://www.tripoli.org/)
 An Organization that focuses soley on high power rocketry. If you are more focused on building and flying high power rockets, this is the place to be. There are also events held year round and even have sections/launches outside of the US. 
 
