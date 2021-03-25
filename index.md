@@ -9,7 +9,7 @@ If you have any questions or would like to learn more, please stop by the lab or
 
 ### Pages
 
-Interested in one of the projects/activites the lab has? Visit the pages listed below to access resources and project ideas.
+Interested in one of the projects/activites the lab has? Or looking for resources to start your own? Visit the pages listed below to access resources and project ideas.
 
 - [Rocketry](pages/rocketry.md)
 - [Astronomy](pages/astronomy.md)
