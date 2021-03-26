@@ -12,6 +12,11 @@ A free online interactive tutorial that allows you to practice and learn without
 Free online tutorial that gives not only the basics, but also some of the advandced topics such as sending emails and GUI programming. 
 
 ## Books
+#### [A Byte of Python](https://python.swaroopch.com/)
+A free online book excellent for beginners new to Python. The book goes through learning how to develop code to solve pratical progblems. 
+
+#### [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
+An intermediate book on Python for those wanting to learn more of the advanced techniques of the language. 
 
 ## Editors
 #### [Atom](https://atom.io/) 
