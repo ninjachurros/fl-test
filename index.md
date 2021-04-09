@@ -15,4 +15,5 @@ Interested in one of the projects/activites the lab has? Or looking for resource
 - [Astronomy](pages/astronomy.md)
 - [3D Printing](pages/print.md)
 - [Pi](pages/pi.md)
+- [Python](pages/python.md)
 
