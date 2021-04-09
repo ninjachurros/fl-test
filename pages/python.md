@@ -11,6 +11,12 @@ A free online interactive tutorial that allows you to practice and learn without
 #### [Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
 Free online tutorial that gives not only the basics, but also some of the advandced topics such as sending emails and GUI programming. 
 
+#### [Real Python](https://realpython.com/)
+A free website that provides tutorials and walkthroughs a different project topics in Python. If you need more than the free tutorials, there is also paid content for a more advanced dive into projects and concepts. 
+
+#### [Youtube - FreeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+A Youtube channel that provides free introductury courses to languages such as Python, JavaScript, HTML and much more. This is a resource to check it out before deciding to pay for courses and certifications on other resource pages. 
+
 ## Books
 #### [A Byte of Python](https://python.swaroopch.com/)
 A free online book excellent for beginners new to Python. The book goes through learning how to develop code to solve pratical progblems. 
@@ -18,7 +24,13 @@ A free online book excellent for beginners new to Python. The book goes through 
 #### [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
 An intermediate book on Python for those wanting to learn more of the advanced techniques of the language. 
 
+#### [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+Interested in learning more about the data science applications for Python? Ebook Author Jake VanderPlas provides free access to his book with additional content available on his GitHub page. 
+
 ## Editors
+#### [IDLE](https://www.python.org/) 
+When you download Python from the official site, IDLE is automatically installed with the official source package. This is the default and most simple IDE for Python.
+
 #### [Atom](https://atom.io/) 
 Open source text editor that can support languages such as Python, C, Java, Ruby, and more. 
 
