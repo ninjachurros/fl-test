@@ -16,8 +16,17 @@ The official Documentation for the Raspberrry Pi with detailed instructions for 
 #### [OpenSource](https://opensource.com/tags/raspberry-pi)
 Looking for more Raspberry Pi Projects? Opensource.com allows the sharing of open sourced projects that users create and explain. These projects typically go beyond the introductory projects when first starting out. 
 
+#### [Real Python - Build Physical Projects With Python on the Raspberry Pi](https://realpython.com/python-raspberry-pi/)
+Provided by Real Python, this is the introduction to a series of physical projects that can be completed with a Pi. The tutorial provides links to more advanced projects will also introducing the reader to the basics of hardware and software needed. 
+
 ## Books
-#### [Raspberry Pi For Dummies: 3rd Edition](https://www.amazon.com/Raspberry-Pi-Dummies-Sean-McManus/dp/1119412005)
+#### [The MagPi Books](https://magpi.raspberrypi.org/books)
+The official Raspberry Pi Magazine offers free electronic downloads of books ranging from beginners guides to more advanced concepts.
+
+#### [Raspberry Pi Cookbook: 3rd Edition](https://www.oreilly.com/library/view/raspberry-pi-cookbook/9781492043218/)
+A book that featurs over 200 receipes that start with the basics and then move towards advanced topics dealing with the Raspberry Pi. Topics include, but are not limited to, networking, software, basics of Python, and computer vision. 
+
+#### [Raspberry Pi For Dummies: 3rd Edition](https://www.wiley.com/en-us/Raspberry+Pi+For+Dummies%2C+3rd+Edition-p-9781119412007)
 A simple introduction to the basic setup and interface of the Raspberry Pi. Also includes information on the basic of Linux and hardware projects that can be completed. 
 
 #### [Learning Computer Architecture with Raspberry Pi](https://www.amazon.com/Learning-Computer-Architecture-Raspberry-Pi/dp/1119183936)
