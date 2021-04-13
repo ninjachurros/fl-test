@@ -18,8 +18,14 @@ NASA provides access to collections of 3D space related models
 A free introductory guide that provides infomration on the basics of 3D printing and additive manufacturing. The guide also covers the different types of uses for different materials as well as the benefits to additive manufacturing. 
 
 ## Books
+#### [The 3D Printing Handbook: Technologies, Design, and Applications](https://www.amazon.com/3D-Printing-Handbook-Technologies-applications/dp/9082748509)
+A book that focuses on the history and introduction to the world of 3D printing. It is not a tutorial or handguide on how to use softwares and design/fabricate items. 
+
 #### [3D Printing Failures: 2020 Edition](https://www.amazon.com/3D-Printing-Failures-Diagnose-Desktop-ebook/dp/B081X8PYPQ)
 A book that focuses on some of the common troubleshooting types when using a 3D printer. 
+
+#### [Parametric Modeling Series: Randy Shih](https://www.sdcpublications.com/Authors/Randy-H-Shih/3/)
+For more in depth analysis behind parametric modeling and CAD software tutorials, Randy Shih has books covering major softwares such as Fusion, SOLIDWORKS and more. 
 
 ## Software
 #### [Autodesk](https://www.autodesk.com/education/home)
