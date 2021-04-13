@@ -14,6 +14,9 @@ One of the largest space-interest groups that is dedicated to educating the publ
 #### [Astronomy Now](https://astronomynow.com/)
 A UK based news site that provides articles about current astronomy events and the history of astronomy. 
 
+#### [Space.com](https://www.space.com/)
+A news site that provides the latest information on space and astronomy topics. There is also a page for resources on skywatching. 
+
 ## Books
 #### [Earth at Night](https://www.nasa.gov/connect/ebooks/earthatnight_detail.html)
 An ebook from NASA providing images and information on how earth looks from space during the night time. 
